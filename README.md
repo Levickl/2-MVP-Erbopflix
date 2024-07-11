@@ -17,6 +17,7 @@ Erbopflix é um site desenvolvido em React que utiliza a API do TMDB (The Movie 
 - React-Icons
 - react-router-dom
 - API do [TMDB](https://www.themoviedb.org)
+- Prototipação do [Figma](https://www.figma.com/design/1bnEsJ0RDTdUc2e6Z1RNP3/Projeto?node-id=0-1&t=k02tokf1CIv9yump-1)
 
 ## Instalação
 
