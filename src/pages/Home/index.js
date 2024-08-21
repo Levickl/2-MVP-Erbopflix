@@ -11,7 +11,7 @@ function Home() {
         async function loadFilmes() {
             const response = await api.get("/movie/now_playing", {
                 params: {
-                    api_key: "83a7aed78524a2a914371d1347f04730",
+                    api_key: "",//ADICONAR TOKEN
                     language: "pt-BR",
                     page: 1,
                 }
