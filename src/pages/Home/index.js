@@ -23,7 +23,7 @@ function Home() {
         }
 
         loadFilmes();
-    });
+    } []);
 
     if (loading) {
         return (
